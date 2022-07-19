@@ -1,0 +1,49 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "courseName": "Android Programming",
+      "day": "1",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "lecturer": "Mrs. Nina",
+      "note": "Class A202"
+    },
+    {
+      "id": 2,
+      "courseName": "Encryption",
+      "day": "1",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "lecturer": "Mr.Tono",
+      "note": "Class B202"
+    },
+    {
+      "id": 3,
+      "courseName": "Calculus",
+      "day": "2",
+      "startTime": "18:00",
+      "endTime": "09:00",
+      "lecturer": "Mr. Joko",
+      "note": "Class C202"
+    },
+    {
+      "id": 4,
+      "courseName": "Algorithm",
+      "day": "4",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "lecturer": "Mr. Deny",
+      "note": "Class D202"
+    },
+    {
+      "id": 5,
+      "courseName": "Entrepreneurship",
+      "day": "6",
+      "startTime": "09:30",
+      "endTime": "11:00",
+      "lecturer": "Mr. Erwin",
+      "note": "Class E202"
+    }
+  ]
+}
